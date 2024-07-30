@@ -2,3 +2,8 @@ css/main.scss
 ./css/main.scss
 css/main.css.map
 css/.sass-cache/c030545933e7ed9e02bc8ab8a00aa75ac1893804/main.scssc
+
+css/responsive.scss
+./css/responsive.scss
+css/responsive.css.map
+css/.sass-cache/c030545933e7ed9e02bc8ab8a00aa75ac1893804/responsive.scssc
