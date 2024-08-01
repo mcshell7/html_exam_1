@@ -94,7 +94,7 @@ section:not(.hero) .title-3 {
 
 blockquote {
   color: #B2B2B2;
-  font-family: "Arial" ,sans-serif;
+  font-family: "Arial", sans-serif;
   font-size: 12px;
   font-style: italic;
   font-weight: 400;
@@ -138,7 +138,7 @@ blockquote {
       color: #FFFFFF; } }
 
 .logo p:first-child {
-  color: #F1CDB3;
+  color: var(--primary-color);
   font-family: "Georgia", serif;
   font-size: 32px;
   line-height: 1.10em;
@@ -178,7 +178,7 @@ blockquote {
     max-width: 700px;
     flex-shrink: 0; }
   .hero p.text {
-    color: #CDCDCD;
+    color: var(--notactive);
     margin-bottom: 42px; }
 
 /*----------------------ABOUT-------------------*/
@@ -238,7 +238,7 @@ blockquote {
   height: 60px;
   margin-bottom: 30px; }
 .help__item {
-  color: var(--color-dark-l, #545454);
+  color: var(--text-color);
   text-align: center;
   font-family: "Georgia", serif;
   font-size: 20px;
